@@ -6,3 +6,8 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     max-width: 200px;
 }
+h2{
+    background-color: rgb(174, 255, 0);
+    width: 200px;
+    color: white;
+}
